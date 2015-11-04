@@ -6,12 +6,14 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ### Contenidos
-- La estructura de la base de datos espacial de la UA <!-- .element: class="fragment" data-fragment-index="1" -->
-- La web de SIGUA: visualización, consulta y salida impresa <!-- .element: class="fragment" data-fragment-index="2" -->
-- Cómo se integra SIGUA con otros sistemas de informacion de la UA <!-- .element: class="fragment" data-fragment-index="3" -->
-- ¿Por qué es importante mantener actualizada la base de datos espacial de la UA? <!-- .element: class="fragment" data-fragment-index="4" -->
-- ¿Para qué sirve y quién participa en el Protocolo de Espacios? <!-- .element: class="fragment" data-fragment-index="5" -->
-- Expediente de personal: asignación de ubicaciones a puestos de trabajo y cargos <!-- .element: class="fragment" data-fragment-index="6" -->
-- Expediente de estancias: asignación de uso y denominación a estancias <!-- .element: class="fragment" data-fragment-index="7" -->
-- Cómo utilizar la web de SIGUA para que resulte más sencillo cumplimentar los expedientes de personal y estancias <!-- .element: class="fragment" data-fragment-index="8" -->
-- Sesión de trabajo con los expedientes de personal y estancias <!-- .element: class="fragment" data-fragment-index="9" -->
+- Introducción <!-- .element: class="fragment" data-fragment-index="1" -->
+  - La estructura de la base de datos espacial de la UA
+  - La web de SIGUA: visualización, consulta y salida impresa
+  - Cómo se integra SIGUA con otros sistemas de informacion de la UA
+  - ¿Por qué es importante mantener actualizada la base de datos espacial de la UA?
+- Protocolo de Espacios de la UA <!-- .element: class="fragment" data-fragment-index="2" -->
+  - ¿Para qué sirve y quién participa en el Protocolo de Espacios?
+  - Expediente de personal: asignación de ubicaciones a puestos de trabajo y cargos
+  - Expediente de estancias: asignación de uso y denominación a estancias
+  - Cómo utilizar la web de SIGUA para que resulte más sencillo cumplimentar los expedientes de personal y estancias
+- Sesión de trabajo con los expedientes de personal y estancias <!-- .element: class="fragment" data-fragment-index="3" -->
