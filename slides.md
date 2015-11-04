@@ -32,3 +32,10 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
   - Una **única** actividad (i.e. es un aula, es un laboratorio, ...)
   - Una **única** unidad organizativa (i.e. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
 - Una estancia puede albergar **uno o varios puestos de trabajo** (i.e. profesor titular, técnico, ...) y **cargos** (i.e. director de departamento, vicerrector, ...)
+
+
+
+### La base de datos espacial de la UA
+Cada estancia se identifica mediante un **código** de 9 posiciones que se puede leer siguiendo la lógica de una dirección postal
+![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
+> Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
