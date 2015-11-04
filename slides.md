@@ -27,7 +27,9 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ### La base de datos espacial de la UA
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
-> Un polígono puede también representar elementos de otro tipo que no afectan a los gestores SIGUA
+
+>  Un polígono puede también representar elementos de otro tipo que no afectan a los gestores SIGUA
+
 - Una estancia siempre tiene asignada:
   - Una **única** actividad (i.e. es un aula, es un laboratorio, ...)
   - Una **única** unidad organizativa (i.e. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
@@ -40,4 +42,4 @@ Cada estancia se identifica mediante un **código** de 9 posiciones que se puede
 
 ![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
 
-> Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
+>  Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
