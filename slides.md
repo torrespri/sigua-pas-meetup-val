@@ -16,3 +16,8 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
   - Expediente de personal: asignación de ubicaciones a puestos de trabajo y cargos
   - Expediente de estancias: asignación de uso y denominación a estancias
   - Cómo utilizar la web de SIGUA para que resulte más sencillo cumplimentar los expedientes de personal y estancias
+
+
+
+### La base de datos espacial de la UA
+![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
