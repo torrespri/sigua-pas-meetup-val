@@ -21,3 +21,14 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 ### La base de datos espacial de la UA
 ![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
+
+
+
+### La base de datos espacial de la UA
+- Cada planta de la base de datos es una lista de polígonos
+- Cada polígono representa una estancia correctamente posicionada sobre la superficie de la Tierra
+> Un polígono puede también representar elementos de otro tipo que no afectan a los gestores SIGUA
+- Una estancia siempre tiene asignada:
+  - Una **única** actividad (i.e. es un aula, es un laboratorio, ...)
+  - Una **única** unidad organizativa (i.e. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
+- Una estancia puede albergar uno o varios puestos de trabajo (i.e. profesor titular, técnico, ...) y cargos (i.e. director de departamento, vicerrector, ...)
