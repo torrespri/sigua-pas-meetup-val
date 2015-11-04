@@ -37,5 +37,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 ### La base de datos espacial de la UA
 Cada estancia se identifica mediante un **código** de 9 posiciones que se puede leer siguiendo la lógica de una dirección postal
+
 ![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
+
 > Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
