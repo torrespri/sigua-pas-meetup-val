@@ -67,3 +67,15 @@ SIGUA es uno más de los diversos sistemas de información corporativos de la UA
 Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
  ⁕*Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
+
+
+
+### La web de SIGUA: Visualización
+- Es una aplicación diseñada específicamente para trabajar con cartografía.
+- Navegar sobre el mapa es sencillo:
+  - Desplazamiento: `botón izq. presionado + arrastre`
+  - Zoom+: `avance rueda` o botón 
+  - Zoom-: `retroceso rueda` o botón 
+- Se puede configurar el aspecto del mapa desde el diálogo `Capas`
+
+>  Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
