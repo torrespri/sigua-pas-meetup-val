@@ -31,9 +31,18 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 >  Un polígono puede también representar elementos de otro tipo que no afectan a los gestores SIGUA
 
 - Una estancia siempre tiene asignada:
-  - Una **única** actividad (i.e. es un aula, es un laboratorio, ...)
-  - Una **única** unidad organizativa (i.e. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
-- Una estancia puede albergar **uno o varios puestos de trabajo** (i.e. profesor titular, técnico, ...) y **cargos** (i.e. director de departamento, vicerrector, ...)
+  - Una **única** actividad (e.g. es un aula, es un laboratorio, ...)
+  - Una **única** unidad organizativa (e.g. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
+
+
+
+### La base de datos espacial de la UA
+- Una estancia puede tener una denominación (e.g. Sala de Exposiciones Aifos)
+- Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
+
+>  La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
+
+>  Puedo desempeñar mi puesto de trabajo en una estancia que no está adscrita a mi unidad organizativa
 
 
 
