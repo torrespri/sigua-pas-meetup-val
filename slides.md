@@ -73,9 +73,10 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ### La web de SIGUA: Visualización
 - Es una aplicación diseñada específicamente para trabajar con cartografía.
 - Navegar sobre el mapa es sencillo:
-  - Desplazamiento: `botón izq. presionado + arrastre`
-  - Zoom+: `avance rueda` o botón 
-  - Zoom-: `retroceso rueda` o botón 
+|        | Desplazar                          | Acercar                  | Alejar                      |
+| :---:  | :--------------------------------: | :----------------------: | :-------------------------: |
+| Acción | `botón izq. presionado + arrastre` | `avance rueda` o botón  | `retroceso rueda` o botón  |
+
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
 >  Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
