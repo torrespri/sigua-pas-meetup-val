@@ -71,11 +71,12 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 
 ### La web de SIGUA: Visualización
-- Es una aplicación diseñada específicamente para trabajar con cartografía.
+- Es una aplicación diseñada específicamente para trabajar con cartografía
 - Navegar sobre el mapa es sencillo:
-|        | Desplazar                          | Acercar                  | Alejar                      |
-| :---:  | :--------------------------------: | :----------------------: | :-------------------------: |
-| Acción | `botón izq. presionado + arrastre` | `avance rueda` o botón  | `retroceso rueda` o botón  |
+
+| Desplazar                          | Acercar                  | Alejar                      |
+| :--------------------------------: | :----------------------: | :-------------------------: |
+| `botón izq. presionado + arrastre` | `avance rueda` o botón  | `retroceso rueda` o botón  |
 
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
