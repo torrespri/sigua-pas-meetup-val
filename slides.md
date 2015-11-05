@@ -76,7 +76,7 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 | Desplazar               | Acercar                    | Alejar                  |
 | :---------------------: | :---------------------  -: | :---------------------: |
-| `botón izq. + arrastre` | `rueda adelante` o botón  | `rueda atrás` o botón  |
+| `botón izq. + arrastre` | `rueda adelante` o botón  | `rueda atrás` o botón   |
 
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
