@@ -60,3 +60,11 @@ SIGUA es uno más de los diversos sistemas de información corporativos de la UA
 **http://www.sigua.ua.es**
 
 >  Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
+
+
+
+### La web de SIGUA
+Es una aplicación **HTML5**. ¿Usas un navegador compatible?
+![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
+
+>  Comprueba la compatibilidad en http://caniuse.com/#cats=CSS,HTML5,JS%20API
