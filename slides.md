@@ -36,7 +36,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ### Puestos de trabajo
-
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
 
 >  La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
@@ -82,7 +81,8 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ### Visualización por escalas
 - La navegación sobre el mapa es fluida porque se usa un sistema de pre-renderizado
 - El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 el de máximo
-- Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
+
+>  Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
 
 
 ### Visualización por plantas
