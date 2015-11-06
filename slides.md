@@ -21,6 +21,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 ### La base de datos espacial de la UA
 ![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
+<i class="fa fa-camera-retro"></i>
 
 
 ### Estancias
