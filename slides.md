@@ -23,7 +23,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
 
 
-
 ### Estancias
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
