@@ -35,7 +35,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
   - Una **única** unidad organizativa (e.g. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
 
 
-
 ### La base de datos espacial de la UA: puestos de trabajo
 - Una estancia puede tener una denominación (e.g. Sala de Exposiciones Aifos)
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
@@ -43,7 +42,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 >  La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
 
 >  Puedo desempeñar mi puesto de trabajo en una estancia que no está adscrita a mi unidad organizativa
-
 
 
 ### La base de datos espacial de la UA: códigos SIGUA
@@ -62,12 +60,10 @@ SIGUA es uno más de los diversos sistemas de información corporativos de la UA
 >  Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
 
 
-
 ### La web de SIGUA: compatibilidad
 Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
  ⁕*Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
-
 
 
 ### La web de SIGUA: visualización
