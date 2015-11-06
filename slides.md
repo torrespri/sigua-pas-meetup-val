@@ -1,7 +1,7 @@
 # Curso para gestores SIGUA
 #### La función del PAS en el protocolo de espacios de la Universidad de Alicante
 
-Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / <i class="fa fa-twitter"></i> [@geomatica_ua](https://twitter.com/geomatica_ua)
+Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / <i class="fa fa-twitter-square"></i> [@geomatica_ua](https://twitter.com/geomatica_ua)
 
 
 
@@ -71,7 +71,7 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 | Desplazar               | Acercar                    | Alejar                  |
 | :---------------------: | :------------------------: | :---------------------: |
-| `botón izq. + arrastre` | `rueda adelante` o botón  <i class="fa fa-plus-circle"></i>| `rueda atrás` o botón <i class="fa fa-minus-circle"></i> |
+| `botón izq. + arrastre` | `rueda adelante` o botón  <i class="fa fa-plus-square"></i>| `rueda atrás` o botón <i class="fa fa-minus-square"></i> |
 -----------------------------------------------------------------------------------
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
