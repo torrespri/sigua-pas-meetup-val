@@ -21,14 +21,13 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 ### La base de datos espacial de la UA
 ![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
-<i class="fa fa-camera-retro"></i>
 
 
 ### Estancias
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
 
->  Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
+> <i class="fa fa-camera-retro"></i> Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
 
 - **Obligatoriamente** una estancia  tiene asignada:
   - Una **única** actividad (e.g. es un aula, es un laboratorio, ...)
