@@ -27,7 +27,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
 
-> <i class="fa fa-camera-retro"></i> Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
+> <i class="fa fa-info-circle"></i> Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
 
 - **Obligatoriamente** una estancia  tiene asignada:
   - Una **única** actividad (e.g. es un aula, es un laboratorio, ...)
@@ -38,9 +38,9 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ### Puestos de trabajo
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
 
->  La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
+> <i class="fa fa-info-circle"></i> La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
 
->  Puedo desempeñar mi puesto de trabajo en una estancia que no está adscrita a mi unidad organizativa
+> <i class="fa fa-info-circle"></i> Puedo desempeñar mi puesto de trabajo en una estancia que no está adscrita a mi unidad organizativa
 
 
 ### Códigos SIGUA
@@ -48,7 +48,7 @@ Cada estancia se identifica mediante un **código** de 9 posiciones que se puede
 
 ![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
 
->  Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
+> <i class="fa fa-info-circle"></i> Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
 
 
 
@@ -56,13 +56,13 @@ Cada estancia se identifica mediante un **código** de 9 posiciones que se puede
 SIGUA es uno más de los diversos sistemas de información corporativos de la UA. Su función principal es mantener  la base de datos espacial de la UA y facilitar su uso por parte de la comunidad universitaria y el público en general mediante la web:
 **http://www.sigua.ua.es**
 
->  Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
+> <i class="fa fa-info-circle"></i> Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
 
 
 ### Compatibilidad
 Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
- ⁕*Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
+ <i class="fa fa-asterisk"></i> *Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
 
 
 ### Visualización
@@ -71,32 +71,32 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 | Desplazar               | Acercar                    | Alejar                  |
 | :---------------------: | :------------------------: | :---------------------: |
-| `botón izq. + arrastre` | `rueda adelante` o botón  | `rueda atrás` o botón  |
+| `botón izq. + arrastre` | `rueda adelante` o botón  <i class="fa fa-plus-circle"></i>| `rueda atrás` o botón <i class="fa fa-minus-circle"></i> |
 -----------------------------------------------------------------------------------
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
->  Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
+> <i class="fa fa-info-circle"></i> Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
 
 
 ### Visualización por escalas
 - La navegación sobre el mapa es fluida porque se usa un sistema de pre-renderizado
 - El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 el de máximo
 
->  Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
+> <i class="fa fa-info-circle"></i> Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
 
 
 ### Visualización por plantas
 - Las estancias se visualizan entre el nivel 19 (escala 1:1330) y el 21
 - Sólo cuando estamos en estos niveles de detalle se activa el **selector de plantas**
 
->  Atención: Cuando volvemos al nivel 19 desde un nivel inferior se visualizará la planta que hubiera seleccionada anteriormente
+> <i class="fa fa-exclamation-triangle"></i> Atención: Cuando volvemos al nivel 19 desde un nivel inferior se visualizará la planta que hubiera seleccionada anteriormente
 
 
 ### Consulta interactiva de estancias
 - El mapa es una página web donde una posición es un hipervínculo que nos da información de la estancia que hay en dicha posición
 - La consulta interactiva de estancias tiene sentido a partir del nivel de detalle 19, cuando éstas estan visibles
 
->  Los elementos dotacionales (e.g. viario, parkings, ...) se pueden consultar interactivamente sólo si la planta baja está seleccionada
+> <i class="fa fa-exclamation-triangle"></i> Los elementos dotacionales (e.g. viario, parkings, ...) se pueden consultar interactivamente sólo si la planta baja está seleccionada
 
->  También existen hipervínculos predefinidos o **marcadores** en el mapa (e.g. edificios, fotografías panorámicas)
+> <i class="fa fa-info-circle"></i> También existen hipervínculos predefinidos o **marcadores** en el mapa (e.g. edificios, fotografías panorámicas)
 
