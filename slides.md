@@ -77,3 +77,26 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 - Se puede configurar el aspecto del mapa desde el diálogo `Capas`
 
 >  Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
+
+
+### Visualización por escalas
+- La navegación sobre el mapa es fluida porque se usa un sistema de pre-renderizado
+- El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 el de máximo
+- Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
+
+
+### Visualización por plantas
+- Las estancias se visualizan entre el nivel 19 (escala 1:1330) y el 21
+- Sólo cuando estamos en estos niveles de detalle se activa el **selector de plantas**
+
+>  Atención: Cuando volvemos al nivel 19 desde un nivel inferior se visualizará la planta que hubiera seleccionada anteriormente
+
+
+### Consulta interactiva de estancias
+- El mapa es una página web donde una posición es un hipervínculo que nos da información de la estancia que hay en dicha posición
+- La consulta interactiva de estancias tiene sentido a partir del nivel de detalle 19, cuando éstas estan visibles
+
+>  Los elementos dotacionales (e.g. viario, parkings, ...) se pueden consultar interactivamente sólo si la planta baja está seleccionada
+
+>  También existen hipervínculos predefinidos o **marcadores** en el mapa (e.g. edificios, fotografías panorámicas)
+
