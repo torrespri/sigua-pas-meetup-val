@@ -34,6 +34,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
   - Una **única** unidad organizativa (e.g. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
 - **Opcionalmente** una estancia tiene una denominación (e.g. Sala de Exposiciones Aifos)
 
+
 ### Puestos de trabajo
 
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
