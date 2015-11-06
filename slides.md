@@ -62,7 +62,8 @@ SIGUA es uno más de los diversos sistemas de información corporativos de la UA
 ### Compatibilidad
 Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
- <i class="fa fa-asterisk"></i> *Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
+
+<i class="fa fa-asterisk"></i> *Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
 
 
 ### Visualización
