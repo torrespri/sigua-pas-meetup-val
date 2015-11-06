@@ -27,15 +27,15 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
 
->  Un polígono puede también representar elementos de otro tipo que no afectan a los gestores SIGUA
+>  Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
 
-- Una estancia siempre tiene asignada:
+- **Obligatoriamente** una estancia  tiene asignada:
   - Una **única** actividad (e.g. es un aula, es un laboratorio, ...)
   - Una **única** unidad organizativa (e.g. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
-
+- **Opcionalmente** una estancia tiene una denominación (e.g. Sala de Exposiciones Aifos)
 
 ### Puestos de trabajo
-- Una estancia puede tener una denominación (e.g. Sala de Exposiciones Aifos)
+
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
 
 >  La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
