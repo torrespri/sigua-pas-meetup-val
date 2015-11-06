@@ -24,7 +24,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### La base de datos espacial de la UA
+### La base de datos espacial de la UA: estancias
 - Cada planta de la base de datos es una lista de polígonos
 - Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
 
@@ -36,7 +36,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### La base de datos espacial de la UA
+### La base de datos espacial de la UA: puestos de trabajo
 - Una estancia puede tener una denominación (e.g. Sala de Exposiciones Aifos)
 - Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
 
@@ -46,7 +46,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### La base de datos espacial de la UA
+### La base de datos espacial de la UA: códigos SIGUA
 Cada estancia se identifica mediante un **código** de 9 posiciones que se puede leer siguiendo la lógica de una dirección postal
 
 ![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
@@ -63,14 +63,14 @@ SIGUA es uno más de los diversos sistemas de información corporativos de la UA
 
 
 
-### La web de SIGUA
+### La web de SIGUA: compatibilidad
 Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 ![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
  ⁕*Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
 
 
 
-### La web de SIGUA: Visualización
+### La web de SIGUA: visualización
 - Es una aplicación diseñada específicamente para trabajar con cartografía
 - Navegar sobre el mapa es sencillo:
 
