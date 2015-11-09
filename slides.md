@@ -111,3 +111,10 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 | <i class="fa fa-file-pdf-o"></i> PDF   | `Descargar PDF`            | `Impresión de edificios`        |
 
 > <i class="fa fa-info-circle"></i> La opción `Impresión de edificios` es un enlace al diálogo `Edificios`. Cada edificio de la lista da acceso a su propio asistente de impresión PDF mediante su correspondiente icono <i class="fa fa-file-pdf-o"></i>
+
+
+
+### Integración de sistemas
+![Integración de sistemas](http://labgeo.github.io/sigua-pas-meetup/img/sys_integration.png)
+
+
