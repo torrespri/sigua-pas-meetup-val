@@ -132,6 +132,6 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 - Marco operativo que establece los canales de obtención de datos:
   - planimétricos
   - organizativos (unidades organizativas, puestos de trabajo y cargos)
-  - de localización
-  - de uso
+  - de localización de puestos/cargos
+  - de uso de las estancias
 - Define la figura del Gestor SIGUA a nivel de unidad organizativa
