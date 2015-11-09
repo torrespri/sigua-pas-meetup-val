@@ -123,7 +123,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 - Reparto equitativo según [Modelo de Espacios de la UA](http://web.ua.es/es/consejo-gobierno/documentos/consejo-de-gobierno-30-07-2013/punto-7-1-modelo-espacios-ua.pdf)
 - Mejor cumplimiento de normas de seguridad y salud laboral
 - Mayor transparencia en procesos de auditoría patrimonial y contable
-- Medio idóneo de dar a conocer la configuración, organización, usos y dotaciones de la UA a todos sus usuarios y a la sociedad civil
+- Medio idóneo de dar a conocer la configuración, organización, usos del suelo y dotaciones de la UA a todos sus usuarios y a la sociedad civil
 
 
 
