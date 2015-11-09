@@ -104,6 +104,7 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 ### Salida impresa
 Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece diversas opciones:
+
 | Formato                                | Impresión directa del mapa | Impresión por edificio y planta |
 | :------------------------------------: | :------------------------: | :-----------------------------: |
 | <i class="fa fa-file-image-o"></i> PNG | `Descargar imagen PNG`     |                                 |
