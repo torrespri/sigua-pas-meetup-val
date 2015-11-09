@@ -126,3 +126,12 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 - Medio idóneo de dar a conocer la configuración, organización, usos y dotaciones de la UA a todos sus usuarios y a la sociedad civil
 
 
+
+### Protocolo de Espacios
+- Guía de procedimientos para la provisión de datos espaciales redactada por el Vicerrectorado de Infraestructuras en 2005
+- Marco operativo que establece los canales de obtención de datos:
+  - planimétricos
+  - organizativos (unidades organizativas, puestos de trabajo y cargos)
+  - de localización
+  - de uso
+- Define la figura del Gestor SIGUA a nivel de unidad organizativa
