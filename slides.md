@@ -110,4 +110,4 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 | <i class="fa fa-file-image-o"></i> PNG | `Descargar imagen PNG`     |                                 |
 | <i class="fa fa-file-pdf-o"></i> PDF   | `Descargar PDF`            | `Impresión de edificios`        |
 
-> <i class="fa fa-info-circle"></i> La opción `Impresión de edificios` es un enlace al diálogo `Edificios`. Basta con pulsar el icono <i class="fa fa-file-pdf-o"> que aparece al lado del edificio que nos interese para imprimir sus plantas en formato PDF formateado.
+> <i class="fa fa-info-circle"></i> La opción `Impresión de edificios` es un enlace al diálogo `Edificios`. Basta con pulsar el icono <i class="fa fa-file-pdf-o"></i> que aparece al lado del edificio que nos interese para imprimir sus plantas en formato PDF formateado.
