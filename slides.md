@@ -101,6 +101,7 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 > <i class="fa fa-info-circle"></i> También existen hipervínculos predefinidos o **marcadores** en el mapa (e.g. edificios, fotografías panorámicas)
 
+
 ### Salida impresa
 Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece diversas opciones:
 | Formato                                | Impresión directa del mapa | Impresión por edificio y planta |
