@@ -136,3 +136,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
   - de localización de puestos/cargos
   - de uso de las estancias
 - Define la figura del Gestor SIGUA o responsable de espacios a nivel de unidad organizativa
+
+
+### Operativa del Protocolo de Espacios
+![Protocolo de Espacios](http://labgeo.github.io/sigua-pas-meetup/img/spatial_protocol.png)
