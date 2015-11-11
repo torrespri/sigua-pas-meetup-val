@@ -140,3 +140,11 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 
 ### Operativa del Protocolo de Espacios
 ![Protocolo de Espacios](http://labgeo.github.io/sigua-pas-meetup/img/spatial_protocol.png)
+
+
+### Acceso a recursos del Protocolo de Espacios
+- Autentificación mediante credenciales personales de la UA (email/password)
+- Vías de autentificación:
+  - UACloud
+  - En la web de SIGUA, accediendo a `Usuario` e introduciendo credenciales en el diálogo `Autentificación de usuarios`
+- El sistema reconoce si el perfil del usuario es `ADMINISTRADOR_SIGUA` y autoriza el uso de los recursos del Protocolo de Espacios mediante el icono <i class="fa fa-user"></i>
