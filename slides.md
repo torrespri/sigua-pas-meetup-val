@@ -148,3 +148,11 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
   - UACloud
   - En la web de SIGUA, accediendo a `Usuario` e introduciendo credenciales en el diálogo `Autentificación de usuarios`
 - El sistema reconoce si el perfil del usuario es `ADMINISTRADOR_SIGUA` y autoriza el uso de los recursos del Protocolo de Espacios mediante el icono <i class="fa fa-user fa-user-gold"></i> de herramientas específicas en la esquina superior derecha
+
+
+### Expediente de personal
+- <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Personal` o `Cargos`
+- Ubicación de puestos de trabajo o cargos individuales en 3 pasos:
+  - <i class="fa fa-pencil"></i> Editar el puesto/cargo
+  - <i class="fa fa-keyboard-o"></i> Escribir el código SIGUA de destino en la caja autocompletable
+  - <i class="fa fa-floppy-o"></i> Presionar botón `Ubicar` para guardar el cambio
