@@ -156,3 +156,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
   - <i class="fa fa-pencil"></i> Editar el puesto/cargo
   - <i class="fa fa-keyboard-o"></i> Escribir el código SIGUA de destino en la caja autocompletable
   - <i class="fa fa-floppy-o"></i> Presionar botón `Ubicar` para guardar el cambio
+
+> <i class="fa fa-exclamation-triangle"></i> Se envían correos automáticos como recordatorio cuando existen puestos o cargos pendientes de ubicación
+
+> <i class="fa fa-exclamation-triangle"></i> No es posible ubicar personas en estancias de menos de 6 m² o recintos no aptos
