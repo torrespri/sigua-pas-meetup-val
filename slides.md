@@ -154,7 +154,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 - <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Personal` o `Cargos`
 - Ubicación de puestos de trabajo o cargos individuales en 3 pasos:
   - <i class="fa fa-pencil"></i> Editar el puesto/cargo
-  - <i class="fa fa-keyboard-o"></i> Escribir el código SIGUA de destino en la caja autocompletable
+  - <i class="fa fa-keyboard-o"></i> Escribir el código SIGUA de destino en el cuadro de texto autocompletable
   - <i class="fa fa-floppy-o"></i> Presionar botón `Ubicar` para guardar el cambio
 
 > <i class="fa fa-exclamation-triangle"></i> Se envían correos automáticos como recordatorio cuando existen puestos o cargos pendientes de ubicación
