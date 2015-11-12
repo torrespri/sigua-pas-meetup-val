@@ -160,3 +160,13 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 > <i class="fa fa-exclamation-triangle"></i> Se envían correos automáticos como recordatorio cuando existen puestos o cargos pendientes de ubicación
 
 > <i class="fa fa-exclamation-triangle"></i> No es posible ubicar personas en estancias de menos de 6 m² o recintos no aptos
+
+### Expediente de estancias
+- <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Estancias`
+- Asignación de actividades a estancias individuales en 3 pasos:
+  - <i class="fa fa-pencil"></i> Editar la estancia
+  - <i class="fa fa-mouse-pointer"></i> Seleccionar una actividad
+  - <i class="fa fa-floppy-o"></i> Presionar botón `Actualizar estancia` para guardar el cambio
+
+> <i class="fa fa-info-circle"></i> El catálogo de actividades está armonizado con los criterios del Servicio de Prevención
+> <i class="fa fa-info-circle"></i> Opcionalmente se puede indicar una denominación que proporcione información adicional (no es necesario ser redundante)
