@@ -175,6 +175,6 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 
 
 ### Utilidades de apoyo
-> <i class="fa fa-lightbulb-o fa-lg"></i> Cualquier usuario autentificado puede enviar a su Gestor SIGUA el código de la estancia en que desempeña su puesto enlazándola en el mapa: `Ver estancia` > diálogo `Ficha estancia` > `Autoubica`
+> <i class="fa fa-lightbulb-o fa-lightbulb-gold fa-lg"></i> Cualquier usuario autentificado puede enviar a su Gestor SIGUA el código de la estancia en que desempeña su puesto enlazándola en el mapa: `Ver estancia` > diálogo `Ficha estancia` > `Autoubica`
 
-> <i class="fa fa-lightbulb-o fa-lg"></i> El Gestor SIGUA puede localizar todas las estancias de su unidad organizativa desde <i class="fa fa-user fa-user-gold"></i> > `Ver estancias` > diálogo `Mis estancias`
+> <i class="fa fa-lightbulb-o fa-lightbulb-gold fa-lg"></i> El Gestor SIGUA puede localizar todas las estancias de su unidad organizativa desde <i class="fa fa-user fa-user-gold"></i> > `Ver estancias` > diálogo `Mis estancias`
