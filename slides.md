@@ -172,3 +172,9 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 > <i class="fa fa-info-circle"></i> El catálogo de actividades está armonizado con los criterios del Servicio de Prevención
 
 > <i class="fa fa-info-circle"></i> Opcionalmente se puede indicar una denominación que proporcione información adicional (no es necesario ser redundante)
+
+
+### Utilidades de apoyo
+> <i class="fa fa-light-bulb"></i> Cualquier usuario autentificado puede enviar a su Gestor SIGUA el código de la estancia en que desempeña su puesto enlazándola en el mapa: `Ver estancia` > diálogo `Ficha estancia` > `Autoubica`
+
+> <i class="fa fa-light-bulb"></i> El Gestor SIGUA puede localizar todas las estancias de su unidad organizativa desde <i class="fa fa-user fa-user-gold"></i> > `Ver estancias` > diálogo `Mis estancias`
