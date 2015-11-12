@@ -161,6 +161,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 
 > <i class="fa fa-exclamation-triangle"></i> No es posible ubicar personas en estancias de menos de 6 m² o recintos no aptos
 
+
 ### Expediente de estancias
 - <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Estancias`
 - Asignación de actividades a estancias individuales en 3 pasos:
