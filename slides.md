@@ -170,4 +170,5 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
   - <i class="fa fa-floppy-o"></i> Presionar botón `Actualizar estancia` para guardar el cambio
 
 > <i class="fa fa-info-circle"></i> El catálogo de actividades está armonizado con los criterios del Servicio de Prevención
+
 > <i class="fa fa-info-circle"></i> Opcionalmente se puede indicar una denominación que proporcione información adicional (no es necesario ser redundante)
