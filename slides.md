@@ -145,7 +145,7 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 ### Acceso a recursos del Protocolo de Espacios
 - Autentificación mediante credenciales personales de la UA (email/password)
 - Vías de autentificación:
-  - UACloud
+  - UACloud (en desarrollo)
   - En la web de SIGUA, accediendo a `Usuario` e introduciendo credenciales en el diálogo `Autentificación de usuarios`
 - El sistema reconoce si el perfil del usuario es `ADMINISTRADOR_SIGUA` y autoriza el uso de los recursos del Protocolo de Espacios mediante el icono <i class="fa fa-user fa-user-gold"></i> de herramientas específicas en la esquina superior derecha
 
