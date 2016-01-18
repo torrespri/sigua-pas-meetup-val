@@ -54,7 +54,7 @@ Cada estancia se identifica mediante un **código** de 9 posiciones que se puede
 
 ### La web de SIGUA
 SIGUA es uno más de los diversos sistemas de información corporativos de la UA. Su función principal es mantener  la base de datos espacial de la UA y facilitar su uso por parte de la comunidad universitaria y el público en general mediante la web:
-**http://www.sigua.ua.es**
+**https://www.sigua.ua.es**
 
 > <i class="fa fa-info-circle"></i> Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
 
