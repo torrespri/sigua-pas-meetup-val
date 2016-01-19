@@ -81,7 +81,7 @@ Es una aplicación **HTML5**. ¿Usas un navegador compatible?
 
 ### Visualización por escalas
 - La navegación sobre el mapa es fluida porque se usa un sistema de pre-renderizado
-- El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 el de máximo
+- El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 la de máximo
 
 > <i class="fa fa-info-circle"></i> Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
 
