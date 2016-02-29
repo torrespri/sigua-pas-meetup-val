@@ -9,7 +9,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 - Introducción <!-- .element: class="fragment" data-fragment-index="1" -->
   - La estructura de la base de datos espacial de la UA
   - La web de SIGUA: visualización, consulta y salida impresa
-  - Cómo se integra SIGUA con otros sistemas de informacion de la UA
+  - Cómo se integra SIGUA con otros sistemas de información de la UA
   - ¿Por qué es importante mantener actualizada la base de datos espacial de la UA?
 - Protocolo de Espacios de la UA <!-- .element: class="fragment" data-fragment-index="2" -->
   - ¿Para qué sirve y quién participa en el Protocolo de Espacios?
