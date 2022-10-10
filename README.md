@@ -1,3 +1,3 @@
 # sigua-pas-meetup
-Presentación para las sesiones prácticas que se imparten al PAS responsable de espacios de la Universidad de Alicante.  
-Se trata de una presentación con *reveal.js* integrada en las Github Pages de la cuenta *labgeo*, por tanto los fuentes se encuentran en la rama *gh-pages*.
+Presentació per a sessions pràctiques que s'imparteixen al PAS responsable d'espais de la Universitat d'Alacant.
+Es tracta d'una presentació amb reveal.js integrada a les Github Pages del compte labgeo, per tant les fonts es troben a la branca gh-pages.
